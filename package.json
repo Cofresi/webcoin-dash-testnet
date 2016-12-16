@@ -1,7 +1,7 @@
 {
-  "name": "webcoin-bitcoin-testnet",
+  "name": "webcoin-dash-testnet",
   "version": "0.1.0",
-  "description": "Bitcoin testnet parameters for webcoin",
+  "description": "Dash testnet parameters for webcoin",
   "main": "index.js",
   "scripts": {
     "test": "standard index.js src && tape test.js | faucet",
@@ -33,10 +33,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mappum/webcoin-bitcoin-testnet.git"
+    "url": "git+https://github.com/cofresi/webcoin-dash-testnet.git"
   },
   "bugs": {
-    "url": "https://github.com/mappum/webcoin-bitcoin-testnet/issues"
+    "url": "https://github.com/cofresi/webcoin-dash-testnet/issues"
   },
-  "homepage": "https://github.com/mappum/webcoin-bitcoin-testnet#readme"
+  "homepage": "https://github.com/cofresi/webcoin-dash-testnet#readme"
 }
